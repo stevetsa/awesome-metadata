@@ -23,6 +23,8 @@ A list of resources for metadata tools, standards and development.  [Contributio
 
 [ISA-tools](https://isa-tools.github.io/software-suite.html) - A set of tools for ISA-Tab and model.
 
+[MetaROOT](https://github.com/NCBI-Hackathons/MetaROOT) - Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable.  
+
 
 ## Metadata/Data Standard Hackathons and Tool Development
 (Sort by date, latest on top.)  
