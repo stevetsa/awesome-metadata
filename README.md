@@ -3,7 +3,7 @@ A list of resources for metadata tools, standards and development.  [Contributio
 
 ## Framework
 (Sort alphabetically.)    
-"[Resource](URL) - description.  " 
+\[Resource](URL) - description.  " 
 
 [ISA-Tab](https://isa-tools.github.io/index.html) - The open source ISA framework and tools help to manage an increasingly diverse set of life science, environmental and biomedical experiments that employing one or a combination of technologies. Built around the 'Investigation' (the project context), 'Study' (a unit of research) and 'Assay' (analytical measurement) data model and serializations (tabular, JSON and RDF), the ISA framework helps you to provide rich description of the experimental metadata (i.e. sample characteristics, technology and measurement types, sample-to-data relationships) so that the resulting data and discoveries are reproducible and reusable.
 
