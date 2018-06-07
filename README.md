@@ -51,5 +51,11 @@ The second annual Bio-IT FAIR Data Hackathon will unite life science and IT team
 
 
 ## Other resources
+[BioPortal](http://bioportal.bioontology.org/) - The goal of the National Center for Biomedical Ontology is to support biomedical researchers in their knowledge-intensive work, by providing online tools and a Web portal enabling them to access, review, and integrate disparate ontological resources in all aspects of biomedical investigation and clinical practice. A major focus of our work involves the use of biomedical ontologies to aid in the management and analysis of data derived from complex experiments.  
+
+[Equator Netowrk](http://www.equator-network.org/) - The EQUATOR (Enhancing the QUAlity and Transparency Of health Research) Network is an international initiative that seeks to improve the reliability and value of published health research literature by promoting transparent and accurate reporting and wider use of robust reporting guidelines.  It is the first coordinated attempt to tackle the problems of inadequate reporting systematically and on a global scale; it advances the work done by individual groups over the last 15 years.  
+
+[FairSharing.org](https://fairsharing.org/standards/) - The standards in FAIRsharing are manually curated from a variety of sources, including BioPortal, MIBBI and the Equator Network.  
+
 [RDA Metadata Directory](http://rd-alliance.github.io/metadata-directory/) - The RDA Metadata Standards Directory Working Group is supported by individuals and organizations involved in the development, implementation, and use of metadata for scientific data. The overriding goal is to develop a collaborative, open directory of metadata standards applicable to scientific data can help address infrastructure challenges.  
 
