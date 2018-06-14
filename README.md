@@ -55,7 +55,7 @@ The Indexd service provides permanent digital IDs for data objects. These IDs ca
 WINDMILL  
 The Windmill service is an interactive website that allows users to explore, submit, and download data. The Windmill service utilizes the APIs offered by the data commons just as any other externally built app could.  
 
-[Keemei](https://keemei.qiime2.org/) - Metadata validataion - Keemei (canonically pronounced key may) is an open source Google Sheets add-on for validating tabular bioinformatics file formats, including QIIME 2 metadata files.  
+[Keemei](https://keemei.qiime2.org/) - Metadata validation - Keemei (canonically pronounced key may) is an open source Google Sheets add-on for validating tabular bioinformatics file formats, including QIIME 2 metadata files.  
 
 [MetaROOT](https://github.com/NCBI-Hackathons/MetaROOT) - Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable.  
 
