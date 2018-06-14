@@ -26,6 +26,7 @@ A list of resources for metadata tools, standards and development.  [Contributio
 
 [NCI Thesaurus](https://ncit.nci.nih.gov/ncitbrowser/) - (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.   
 
+[Sample_and_Data_Relationship_Format](https://en.wikipedia.org/wiki/Sample_and_Data_Relationship_Format) - The Sample and Data Relationship Format (SDRF) is part of the MAGE-TAB standard for communicating the results of microarray investigations, including all information required for MIAME compliance. An SDRF file is a tab-delimited file describing the relationships between samples, arrays, data, and other objects used or produced in a microarray investigation. For simple experimental designs, constructing the SDRF file is straightforward, and even complex loop designs can be expressed in this format.  
 
 
 
