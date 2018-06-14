@@ -36,7 +36,8 @@ A list of resources for metadata tools, standards and development.  [Contributio
 
 [MetaROOT](https://github.com/NCBI-Hackathons/MetaROOT) - Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable.  
 
-[Gen3](https://github.com/uc-cdis) -   
+Gen3 -  
+[GitHub](https://github.com/uc-cdis)
 https://cdis.uchicago.edu/gen3/  
 
 SHEEPDOG   
