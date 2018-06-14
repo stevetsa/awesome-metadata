@@ -22,6 +22,11 @@ A list of resources for metadata tools, standards and development.  [Contributio
 
 [ISA Abstract Model](http://isa-specs.readthedocs.io/en/latest/isamodel.html) - This ISA specification defines an Abstract Model of the metadata framework. The ISA Abstract Model has been implemented in two format specifications, ISA-Tab and ISA-JSON, both of which have supporting tools and services associated with them. The format specifications are also available for additional tooling to take advantage of ISA-formatted content.  
 
+[NCI Thesaurus](https://ncit.nci.nih.gov/ncitbrowser/) - (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.   
+
+[NCI Metathesaurus](https://ncim.nci.nih.gov/ncimbrowser/) -(NCIm) is a wide-ranging biomedical terminology database that covers most terminologies used by NCI for clinical care, translational and basic research, and public information and administrative activities.   
+
+
 
 ## Tools
 (Sort alphabetically.)    
