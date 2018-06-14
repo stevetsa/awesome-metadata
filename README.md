@@ -22,9 +22,10 @@ A list of resources for metadata tools, standards and development.  [Contributio
 
 [ISA Abstract Model](http://isa-specs.readthedocs.io/en/latest/isamodel.html) - This ISA specification defines an Abstract Model of the metadata framework. The ISA Abstract Model has been implemented in two format specifications, ISA-Tab and ISA-JSON, both of which have supporting tools and services associated with them. The format specifications are also available for additional tooling to take advantage of ISA-formatted content.  
 
+[NCI Metathesaurus](https://ncim.nci.nih.gov/ncimbrowser/) -(NCIm) is a wide-ranging biomedical terminology database that covers most terminologies used by NCI for clinical care, translational and basic research, and public information and administrative activities.   
+
 [NCI Thesaurus](https://ncit.nci.nih.gov/ncitbrowser/) - (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.   
 
-[NCI Metathesaurus](https://ncim.nci.nih.gov/ncimbrowser/) -(NCIm) is a wide-ranging biomedical terminology database that covers most terminologies used by NCI for clinical care, translational and basic research, and public information and administrative activities.   
 
 
 
@@ -33,8 +34,6 @@ A list of resources for metadata tools, standards and development.  [Contributio
 \[Resource](URL) - description.    
 
 [ISA-tools](https://isa-tools.github.io/software-suite.html) - A set of tools for ISA-Tab and model.
-
-[MetaROOT](https://github.com/NCBI-Hackathons/MetaROOT) - Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable.  
 
 Gen3 -  
 [GitHub](https://github.com/uc-cdis)  
@@ -54,6 +53,9 @@ The Indexd service provides permanent digital IDs for data objects. These IDs ca
 
 WINDMILL  
 The Windmill service is an interactive website that allows users to explore, submit, and download data. The Windmill service utilizes the APIs offered by the data commons just as any other externally built app could.  
+
+[MetaROOT](https://github.com/NCBI-Hackathons/MetaROOT) - Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable.  
+
 
 ## Metadata/Data Standard Hackathons and Tool Development
 (Sort by date, latest on top.)  
