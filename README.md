@@ -37,8 +37,8 @@ A list of resources for metadata tools, standards and development.  [Contributio
 [MetaROOT](https://github.com/NCBI-Hackathons/MetaROOT) - Using MetaMapLite to standardize metadata terminology and make sequencing metadata machine readable.  
 
 Gen3 -  
-[GitHub](https://github.com/uc-cdis)
-https://cdis.uchicago.edu/gen3/  
+[GitHub](https://github.com/uc-cdis)  
+[Website](https://cdis.uchicago.edu/gen3/)  
 
 SHEEPDOG   
 The Sheepdog service is responsible for herding user submissions of metadata into the graph database. The submissions are quality controlled against the data dictionary to ensure all required fields are present and have appropriate data values. The Sheepdog service is also responsible for supporting bulk export of the metadata into TSV or JSON formats. 
