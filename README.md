@@ -76,6 +76,7 @@ The second annual Bio-IT FAIR Data Hackathon will unite life science and IT team
 ## Publications
 [Detailed Clinical Models: A Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3092133/)
 
+[Improving the value of public RNA-seq expression data by phenotype prediction](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961118/) - We develop an in silico phenotyping approach for predicting critical missing annotation directly from genomic measurements using well-annotated genomic and phenotypic data produced by consortia like TCGA and GTEx as training data.
 
 
 ## Other resources
